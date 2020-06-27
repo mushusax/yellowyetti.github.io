@@ -28,11 +28,10 @@ twitter_username: _mushusax_
 github_username:  yellowyetti
 
 # Build settings
-# theme: minima
+theme: minima
 remote_theme: ronv/sidey
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
